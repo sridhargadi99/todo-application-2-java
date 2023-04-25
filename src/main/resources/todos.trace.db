@@ -1,0 +1,3 @@
+2023-04-25 06:32:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+SELECT * FROM TODOLIST [42104-214]
